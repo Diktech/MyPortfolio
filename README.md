@@ -82,5 +82,5 @@ Master’s In Business Administration MBA
 
 HND Electrical Electronics Engineering.
 
-## PROJECTS 
+## DATA ANALYTICS PROJECTS 
 
