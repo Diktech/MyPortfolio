@@ -17,21 +17,31 @@
 Junior Data Analyst  JULY 2023 till  DATE
 
 •	Clean data and Conducted data analysis to identify trends and patterns in potential students’ behaviour in choosing universities of choice. 
+
 •	Creating data visualization and dashboard for sales performance, providing real-time insights to sales teams for better decision making. 
+
 •	Presenting findings to stakeholders and suggesting solutions to business problems. 
+
 •	Collaborated with cross-functional teams to identify process inefficiencies and proposed data-driven solutions.
+
 ### TRADEVIEW MARKETS LONDON
 Market Analyst 2023
+
 •	Analyze the forex market to provide market insight to existing clients 
+
 •	Using fundamental data to forecast potential price movement and predict market direction 
+
 •	Organizing, cleaning and storing market data for future  market analysis and prediction 
+
 •	Paying attention to details and drawing insight from analysis 
+
 •	Creating visualization to bring derived insight to live and make it easy to understand. 
 
 ### CJC MARKETS NG CFD/FOREX
    Sales Manager  August 2020 to January 2023
 
 •	 Utilized data analysis to identify market segments and optimize sales approaches.
+
 •	 Leverage statical models to forecast potential revenue streams 
 •	 Monitor and analyse sales data, implementing data driven strategies to increase efficiency and productivity. 
 •	 Utilizing data analysis to identify markets segments and optimize sales approaches.
