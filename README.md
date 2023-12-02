@@ -13,9 +13,10 @@
 
 
 
+
 ## WORK EXPERIENCE
 ### BSMS LONDON, UK (IT) PART TERM
-Junior Data Analyst  JULY 2023 till  DATE
+##### Junior Data Analyst  JULY 2023 till  DATE
 
 •	Clean data and Conducted data analysis to identify trends and patterns in potential students’ behaviour in choosing universities of choice. 
 
@@ -25,8 +26,10 @@ Junior Data Analyst  JULY 2023 till  DATE
 
 •	Collaborated with cross-functional teams to identify process inefficiencies and proposed data-driven solutions.
 
+
+
 ### TRADEVIEW MARKETS LONDON
-Market Analyst 2023
+##### Market Analyst 2023
 
 •	Analyze the forex market to provide market insight to existing clients 
 
@@ -39,20 +42,23 @@ Market Analyst 2023
 •	Creating visualization to bring derived insight to live and make it easy to understand. 
 
 ### CJC MARKETS NG CFD/FOREX
-   Sales Manager  August 2020 to January 2023
+   ##### Sales Manager  August 2020 to January 2023
 
 •	 Utilized data analysis to identify market segments and optimize sales approaches.
 
 •	 Leverage statical models to forecast potential revenue streams 
-•	 Monitor and analyse sales data, implementing data driven strategies to increase efficiency and productivity. 
+
+•	 Monitor and analyse sales data, implementing data driven strategies to increase efficiency and productivity.
+
 •	 Utilizing data analysis to identify markets segments and optimize sales approaches.
+
 •	 Utilize data analytics tools to monitor markets trends and competitor’s activities
 
 
 ## EDUCATION 
 ### INCO ACADEMY TRAINING UK BUSINESS INTELLIGENCE AND DATA ANALYTICS  COURSE
-Google Certified Data Analyst
 
+Google Certified Data Analyst
 
 BCS certified Business analyst-in view 
 
@@ -68,3 +74,10 @@ Relevant Modules: Modelling Business Process, Requirement Engineering, Software 
 ### Nexford University, Washington DC 2023
 
 Master’s In Business Administration MBA
+
+### NEXFORD UNIVERSITY, Washington DC (2022)
+ Master’s in business administration (MBA) Foundation Course.
+
+### Petroleum training institute, Warri (2006-2011)
+
+HND Electrical Electronics Engineering.
