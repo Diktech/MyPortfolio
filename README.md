@@ -42,7 +42,7 @@
 •	Creating visualization to bring derived insight to live and make it easy to understand. 
 
 ### CJC MARKETS NG CFD/FOREX
-   ##### Sales Manager  August 2020 to January 2023
+##### Sales Manager  August 2020 to January 2023
 
 •	 Utilized data analysis to identify market segments and optimize sales approaches.
 
