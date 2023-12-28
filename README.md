@@ -105,15 +105,10 @@ Data Errors and Issues: Data has issues with duplicate data, Null values, and in
 Tools Choosing to work with R due to it’s flexibility, and the fact that we have a large dataset.
 
 Data should help me answer the question of “how do annual members and casual riders use Cyclistic bikes differently?” because I have access to a year’s worth of data for both casual and member riders. Data has over 4 million records which is a lot.
-
-
-Summary and Recommendations
+### Summary and Recommendations
 Learned that a docked bicycle type is around 2 times as popular compared to casual and electric bikes. This applies to both casual and member bicycle users.
-
 Learned that Saturday and Sunday are the most popular riding days for casual riders.
-
 November through February have the least number of casual riders, perhaps due to cold winter months.
-
 May, July, and August have a particularly high number of Casual riders.
 
 The most popular stations for Casual riders in descending order are Streeter Dr & Grand Ave, Lake Shore Dr & Monroe St, Millennium Park, Theater on the Lake, Michigan Ave & Oak St.
